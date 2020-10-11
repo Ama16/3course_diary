@@ -3,7 +3,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 import category_encoders as ce
 
 class BinaryEncoder(BaseEstimator, TransformerMixin):
-    """Binary encoding для категориальных признаков. Похоже на One-Hot, но хванит категории как двоичные битовые строки.
+    """Binary encoding для категориальных признаков. Похоже на One-Hot, но хранит категории как двоичные битовые строки.
     
     Параметры
     ----------
