@@ -1,8 +1,8 @@
 # Дневник
-| Methods | Link | Completed |
+| Methods | Supervised/Unsupervised | Completed |
 |-------:|:---------:|:--|
-| Binary encoding |  | :white_check_mark: |
-| One-Hot encoding |  |  :x: |
-| Label encoding |  | :x: |
-| Frequency encoding |  | :x: |
-| Target Encoding |  | :x: |
+| Binary encoding | Unsupervised | :white_check_mark: |
+| One-Hot encoding | Unsupervised |  :x: |
+| Label encoding | Unsupervised | :white_check_mark: |
+| Frequency encoding | Unsupervised | :white_check_mark: |
+| Target Encoding | Supervised | :x: |
