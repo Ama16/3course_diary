@@ -1,4 +1,4 @@
-# Краткий обзор всего прочитанного
+# Информация о кодировании
 | Title | Link | Key ideas |
 |----------------|:---------:|----------------:|
-|Using Deep Learning for Structured Data with Entity Embeddings | https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088 | Если уникальных значений в категориальном признаке много, можно применять эмбеддинги.  Плюсы: много меньшая размерность, чем у того же One-hot encoding; сохраняет информацию об отношениях между категориями; можно попробовать визуализировать|
+| All about Categorical Variable Encoding | https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 | Описание принципов работы One Hot, Label, Ordinal, Helmert, Binary, Frequency, Mean, Weight of Evidence, Probability Ratio, Hashing, Backward Difference, Leave One Out, James-Stein, M-estimator Encodings.
