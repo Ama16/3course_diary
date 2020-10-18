@@ -1,4 +1,5 @@
 # Дневник
+Описание всех методов [тут](https://github.com/Ama16/3course_diary/blob/main/review.md)
 | Methods | Supervised/Unsupervised | Completed |
 |-------:|:---------:|:--|
 | Binary encoding | Unsupervised | :white_check_mark: |
