@@ -3,8 +3,8 @@ from numpy.linalg import svd
 import numpy as np
 from sklearn.base import BaseEstimator, TransformerMixin
 
-class CountSvmEncoder(BaseEstimator, TransformerMixin):
-    """CountSvm encoding для категориальных признаков. 
+class CountSvdEncoder(BaseEstimator, TransformerMixin):
+    """CountSvd encoding для категориальных признаков. 
     Кодируемый категориальный признак кодируется k столбцами матрицы U в сингулярном разложении матрицы подсчета P (P_i_j равно 
     количеству элементов в обучающей выборке, у который кодируемый признак равен d1[i], а кодирующий - d2[j], где d1 и d2 - некоторые
     биективные отображения множеств чисел [0; кол-во уникальных значений кодируемого (кодирующего) признака] в значения признака соответственно)
