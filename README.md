@@ -6,3 +6,5 @@
 | Label encoding | Unsupervised | :white_check_mark: |
 | Frequency encoding | Unsupervised | :white_check_mark: |
 | Target Encoding | Supervised | :x: |
+| CountSvm Encoding | Unsupervised | :white_check_mark: |
+| RealFeature Encoding | Unsupervised | :white_check_mark: |
