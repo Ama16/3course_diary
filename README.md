@@ -6,7 +6,7 @@
 | One-Hot encoding | Unsupervised |  :x: |
 | Label encoding | Unsupervised | :white_check_mark: |
 | Frequency encoding | Unsupervised | :white_check_mark: |
-| Target Encoding | Supervised | :heavy_exclamation_mark:|
+| Target Encoding | Supervised | :white_check_mark:|
 | CountSvd Encoding | Unsupervised | :white_check_mark: |
 | RealFeature Encoding | Unsupervised | :white_check_mark: |
 
