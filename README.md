@@ -11,6 +11,7 @@
 | RealFeature Encoding | Unsupervised | :white_check_mark: |
 | Weight of Evidence Encoding | Supervised | :white_check_mark: |
 | Probability Ratio Encoding | Supervised | :white_check_mark: |
+| James Stein Encoding | Supervised | :white_check_mark: | 
 
 :white_check_mark: - готово
 
