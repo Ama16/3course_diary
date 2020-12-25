@@ -1,4 +1,9 @@
 # Дневник
+Участие в соревновании [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression) (бронза)
+
+Участие в соревновании [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview) (до 07.01, пока что топ 4%)
+
+
 Описание всех методов [тут](https://github.com/Ama16/3course_diary/blob/main/review.md)
 | Methods | Supervised/Unsupervised | Completed |
 |-------:|:---------:|:--|
