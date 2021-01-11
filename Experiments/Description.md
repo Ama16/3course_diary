@@ -1,1 +1,1 @@
-[Click-Through Rate Prediction](http://example.com/link) - предсказание клика
+[Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction) - предсказание клика
