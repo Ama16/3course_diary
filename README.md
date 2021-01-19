@@ -3,6 +3,7 @@
 
 Участие в соревновании [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview) на Kaggle (бронза)
 
+Участие в соревновании [Alfa Battle 2.0](https://boosters.pro/championship/alfabattle2/rating) на Boosters (бронза)
 
 Описание всех методов [тут](https://github.com/Ama16/3course_diary/blob/main/review.md)
 | Methods | Supervised/Unsupervised | Completed |
