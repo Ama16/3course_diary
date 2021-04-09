@@ -1,9 +1,7 @@
 # Дневник
 
 
-Участие в соревновании [Data Fusion Contest](https://boosters.pro/championship/data_fusion/rating) на Boosters (еще идет)
-
-Участие в соревновании [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching/overview) на Kaggle (еще идет)
+Участие в соревновании [Data Fusion Contest](https://boosters.pro/championship/data_fusion/rating) на Boosters (бронза)
 
 Участие в соревновании [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression) на Kaggle (бронза)
 
