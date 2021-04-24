@@ -21,10 +21,10 @@ Boosting results (ROC-AUC score):
 Logistic regression results (ROC-AUC score):
 | | Click           | Employee  |OneTwoTrip| Driver |
 | ------------- |:-------------:| -----:|  -----:|   -----:|  
-| James Stein | 0.7176 | - |  0.6786 | 0.6100 |
-| Label| 0.6404 | - |0.6994| 0.6218 |
-| Frequency| 0.6674 | - |**0.7061**| 0.6303 |
-| Target, smoothing=0| 0.7339 | - |0.6995| 0.6268 |
-| Target, smoothing=1| 0.7356 | - |0.6997| 0.6283 |
-| Target, smoothing=2| 0.7354 | - |0.7002| 0.6275 |
-| WoE| **0.7382** | - |0.6770| **0.6307** |
+| James Stein | 0.7176 | **0.8104** |  0.6786 | 0.6100 |
+| Label| 0.6404 | 0.5750 |0.6994| 0.6218 |
+| Frequency| 0.6674 | 0.5738 |**0.7061**| 0.6303 |
+| Target, smoothing=0| 0.7339 | 0.7532 |0.6995| 0.6268 |
+| Target, smoothing=1| 0.7356 | 0.7512 |0.6997| 0.6283 |
+| Target, smoothing=2| 0.7354 | 0.7462 |0.7002| 0.6275 |
+| WoE| **0.7382** | 0.8041 |0.6770| **0.6307** |
