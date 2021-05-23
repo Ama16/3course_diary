@@ -1,5 +1,6 @@
 # Дневник
 
+Участие в соревновании [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) на Kaggle (серебро)
 
 Участие в соревновании [Data Fusion Contest](https://boosters.pro/championship/data_fusion/rating) на Boosters (бронза)
 
